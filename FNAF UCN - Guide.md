@@ -142,7 +142,10 @@ Nedd Bear
 
 Orville Elephant
 
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Rockstar_Freddy
 Rockstar Freddy
+
+![[Pasted image 20251214151754.png|50]]
 
 Rockstar Bonnie
 
