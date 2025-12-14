@@ -47,7 +47,7 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Chica
 Chica - She doesn't care about the status of the Music box. She gets tired from the same song that is being played. Every 15 seconds a check is made to see if she gets bored. If she becomes unhappy she will stop making noise. You have to change music immediately on CAM 04. Having the global music box active on the 15-second intervals will also soothe her. If two of the 15-second checks are missed in a row, she will become angry and leave the Kitchen to hunt down the player. If the player changes the music while she is making noise, she will immediately become angry. Once angry ,she cannot be calmed down, she has a 20% chance every half-second to attack the player whenever the Monitor is up.
 
 ![[Chica.png|75]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Foxy
 Foxy - Shares Pirate's Cove with Bonnie(CAM 05). When viewed by the camera, he will be slowed down, preventing him from attacking you. If he succeeds getting into the office he will toss in his parts, slowly building himself while the player flips the monitor. Once he finishes, he will attack. Look at figurine on the desk to tell who is in pirate cove. If you eliminate him with a death coin, Bonnie also dies.
 
 ![[FoxyCove.png|200]]
