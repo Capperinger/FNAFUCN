@@ -79,11 +79,11 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Withered_Chica
 Withered Chica - Crawls through the ventilation at the speed of 6, which is set to 1 every time she hits a corner. The speed is then changed every 6 seconds. She will always take the longest path to reach the Office. If the vent is activated on top of her, she will be sent back to the start of the vent network. Additionally, if the center vent door is closed when she attempts to enter, she will be sent back to the start.; Withered Chica does not have a visual or audio cue when she is ready and can only be tracked on the Vent Monitor. 
 
 ![[WitheredChicaVent.png|75]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Withered_Bonnie
 Withered Bonnie - Every 13 second interval while the monitor is raised, there is a chance he enters. On level 20 he has a 66% to enter. If he enters the lights flicker and the droning sound from FNAF 2 plays. While the Freddy mask is on, each frame there is a 3.3% for him to leave, which is basically guaranteed after a second. If he's in the Office for more than 2.8 seconds he will attack.
 
 ![[WitheredBonnie.png|150]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Marionette
 Marionette - Every second the box meter is lowered. In level 1 it takes 50 seconds while in level 20 it takes 16.67 seconds. The Music Box can be manually wound up by going to CAM 04 and holding the button, which adds 10 units every milliseconds, or use the Global Music Box which adds 5 units every second. When he escapes, the ventilation will drain faster and every second you have the monitor up there is a 33% chance to attack the player. The Marionette can be eliminated for the night with a Death Coin.
 
 ![[Marionette.png|75]]
