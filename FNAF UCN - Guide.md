@@ -61,27 +61,27 @@ Toy Bonnie - Every 15 seconds the game has a chance to activate him. In 20, the 
 
 Toy Chica- Every 14 seconds the game has a chance to activate her. In 20, the chance is 33%. To deactivate her you have to equip the Freddy Mask which lowers her active value by 1 every frame and by 2 if she is being looked at. After being looked at for 1.67 seconds she will leave. Otherwise it takes 3 seconds. You can take the mask off once the droning noise stops. If Toy Chica is in the office for more than 4 seconds the lights will flicker. If she is there for longer than 5 seconds she will attack.
 
-![[Pasted image 20251214004440.png|75]]
+![[ToyChica.png|75]]
 
 Mangle - Mangles speed up when going through the vents. When he hits a corner her speed is set to 1. The chance for every route is equal. If the vent snare is activated on top of him and she is there for half a second, she will be sent back to the start, which is the only way to reset his progress in the vents.
 
-![[Pasted image 20251214005105.png|75]]
+![[Mangle.png|75]]
 
 Balloon Boy - Every time you raise the monitor there is a chance that balloon boy will be activated. On level 20 the chance is 66%. If the side vent is closed when the check happens he does not activate. When he activates he will appear in the side vent, and you have about 3.4 seconds to close the vent. If you open the Monitor while he is tin the side vent he will automatically enter. If he enters he will disable the flashlight for 10 seconds. If you block him you gain one Faz-Coin. He also has no jumpscare.
 
-![[Pasted image 20251214105656.png|100]]
+![[BBInVent.png|100]]
 
 Jay-Jay - Every time you raise the monitor there is a chance that Jay-Jaya will be activated. On level 20 the chance is 66%. If the side vent is closed when the check happens she does not activate. When she activates she will appear in the side vent, and you have about 3.2 seconds to close the vent. If you open the Monitor while she is in the side vent she will automatically enter. If she enters she will disable the doors for 8.3 seconds. If you block her you gain one Faz-Coin. She also has no jumpscare.
 
-![[Pasted image 20251214103917.png|100]]
+![[JJInVent.png|100]]
 
 Withered Chica - Crawls through the ventilation at the speed of 6, which is set to 1 every time she hits a corner. The speed is then changed every 6 seconds. She will always take the longest path to reach the Office. If the vent is activated on top of her, she will be sent back to the start of the vent network. Additionally, if the center vent door is closed when she attempts to enter, she will be sent back to the start.; Withered Chica does not have a visual or audio cue when she is ready and can only be tracked on the Vent Monitor. 
 
-![[Pasted image 20251214111144.png|75]]
+![[WitheredChicaVent.png|75]]
 
 Withered Bonnie - Every 13 second interval while the monitor is raised, there is a chance he enters. On level 20 he has a 66% to enter. If he enters the lights flicker and the droning sound from FNAF 2 plays. While the Freddy mask is on, each frame there is a 3.3% for him to leave, which is basically guaranteed after a second. If he's in the Office for more than 2.8 seconds he will attack.
 
-![[Pasted image 20251214111547.png|150]]
+![[WitheredBonnie.png|150]]
 
 Marionette - Every second the box meter is lowered. In level 1 it takes 50 seconds while in level 20 it takes 16.67 seconds. The Music Box can be manually wound up by going to CAM 04 and holding the button, which adds 10 units every milliseconds, or use the Global Music Box which adds 5 units every second. When he escapes, the ventilation will drain faster and every second you have the monitor up there is a 33% chance to attack the player. The Marionette can be eliminated for the night with a Death Coin.
 
