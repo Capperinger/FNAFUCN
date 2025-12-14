@@ -43,7 +43,7 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Bonnie
 Bonnie - He shares Pirate's Cove with Foxy(CAM 05), the figurine on top of the desk will show who is currently active in Pirate's Cove. Every two seconds in the monitor is raised, the figurine has a 33% chance to change to the other character. If Bonnie is active in Pirate's Cove and the camera is active, he will scream for a moment and disables the monitors. While he is active, he negates the risk of Foxy. It is beneficial to leave Bonnie there so Foxy cannot harm the player. He can be death-coined, which also eliminates Foxy.
 
 ![[BonnieScream.png|200]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Chica
 Chica - She doesn't care about the status of the Music box. She gets tired from the same song that is being played. Every 15 seconds a check is made to see if she gets bored. If she becomes unhappy she will stop making noise. You have to change music immediately on CAM 04. Having the global music box active on the 15-second intervals will also soothe her. If two of the 15-second checks are missed in a row, she will become angry and leave the Kitchen to hunt down the player. If the player changes the music while she is making noise, she will immediately become angry. Once angry ,she cannot be calmed down, she has a 20% chance every half-second to attack the player whenever the Monitor is up.
 
 ![[Chica.png|75]]
