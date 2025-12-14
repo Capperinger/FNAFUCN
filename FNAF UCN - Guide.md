@@ -75,7 +75,7 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Jay-Jay
 Jay-Jay - Every time you raise the monitor there is a chance that Jay-Jaya will be activated. On level 20 the chance is 66%. If the side vent is closed when the check happens she does not activate. When she activates she will appear in the side vent, and you have about 3.2 seconds to close the vent. If you open the Monitor while she is in the side vent she will automatically enter. If she enters she will disable the doors for 8.3 seconds. If you block her you gain one Faz-Coin. She also has no jumpscare.
 
 ![[JJInVent.png|100]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Withered_Chica
 Withered Chica - Crawls through the ventilation at the speed of 6, which is set to 1 every time she hits a corner. The speed is then changed every 6 seconds. She will always take the longest path to reach the Office. If the vent is activated on top of her, she will be sent back to the start of the vent network. Additionally, if the center vent door is closed when she attempts to enter, she will be sent back to the start.; Withered Chica does not have a visual or audio cue when she is ready and can only be tracked on the Vent Monitor. 
 
 ![[WitheredChicaVent.png|75]]
