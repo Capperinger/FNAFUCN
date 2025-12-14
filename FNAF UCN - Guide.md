@@ -37,7 +37,7 @@ Esc - Return to Menu
 
 Freddy Fazbear - Slowly creeps on the left hallway on CAM 01, going through 4 phases before attacking. Attacks when the monitor is up with the left door open when progress is reached. The hotter the office the faster Freddy progresses.
 
-![[Pasted image 20251214002006.png|50]]
+![[Freddy.png|50]]
 
 Bonnie - He shares Pirate's Cove with Foxy(CAM 05), the figurine on top of the desk will show who is currently active in Pirate's Cove. Every two seconds in the monitor is raised, the figurine has a 33% chance to change to the other character. If Bonnie is active in Pirate's Cove and the camera is active, he will scream for a moment and disables the monitors. While he is active, he negates the risk of Foxy. It is beneficial to leave Bonnie there so Foxy cannot harm the player. He can be death-coined, which also eliminates Foxy.
 
@@ -49,15 +49,15 @@ Chica - She doesn't care about the status of the Music box. She gets tired from 
 
 Foxy - Shares Pirate's Cove with Bonnie(CAM 05). When viewed by the camera, he will be slowed down, preventing him from attacking you. If he succeeds getting into the office he will toss in his parts, slowly building himself while the player flips the monitor. Once he finishes, he will attack. Look at figurine on the desk to tell who is in pirate cove. If you eliminate him with a death coin, Bonnie also dies.
 
-![[Pasted image 20251214002057.png|200]]
+![[FoxyCove.png|200]]
 
 Toy Freddy - He sits in the Parts and Service room(CAM 08), playing Five Nights With Mr. Hugs on his monitor. Find the monitor that Mr. Hugs is on and close the appropriate door to defend Toy Freddy from him. Every 10 seconds there is a chance that Mr. Hugs moves. If on CAM 08 during the refresh, then Mr. Hugs does not move. If Toy Freddy loses the game he will become angry. When angry every half-second there is a 10% chance that he will attack the player when the Monitor is up. He can be removed from the night using the Death Coin. But because of a bug he can still attack if used after being angered.
 
-![[Pasted image 20251214002118.png|200]]
+![[ToyFredMrHugs.png|200]]
 
 Toy Bonnie - Every 15 seconds the game has a chance to activate him. In 20, the chance is 33%. To deactivate him you have to equip the Freddy Mask which lowers his active value by 1 every frame and by 2 if he is being looked at. After being looked at for 1.67 seconds he will leave. Otherwise it takes 3 seconds. You can take the mask off once the droning noise stops. If Toy Bonnie is in the office for more than 4 seconds the lights will flicker. If he is there for longer than 5 seconds he will attack.
 
-![[Pasted image 20251214004004.png|75]]
+![[ToyBonnie.png|75]]
 
 Toy Chica- Every 14 seconds the game has a chance to activate her. In 20, the chance is 33%. To deactivate her you have to equip the Freddy Mask which lowers her active value by 1 every frame and by 2 if she is being looked at. After being looked at for 1.67 seconds she will leave. Otherwise it takes 3 seconds. You can take the mask off once the droning noise stops. If Toy Chica is in the office for more than 4 seconds the lights will flicker. If she is there for longer than 5 seconds she will attack.
 
@@ -85,11 +85,11 @@ Withered Bonnie - Every 13 second interval while the monitor is raised, there is
 
 Marionette - Every second the box meter is lowered. In level 1 it takes 50 seconds while in level 20 it takes 16.67 seconds. The Music Box can be manually wound up by going to CAM 04 and holding the button, which adds 10 units every milliseconds, or use the Global Music Box which adds 5 units every second. When he escapes, the ventilation will drain faster and every second you have the monitor up there is a 33% chance to attack the player. The Marionette can be eliminated for the night with a Death Coin.
 
-![[Pasted image 20251214112112.png|75]]
+![[Marionette.png|75]]
 
 Golden Freddy - Every time you flip the Monitor and he is not in the office, there is a chance that he will appear. On difficulty 1 its 1 in 40 while on difficulty 20 its 1 in 2. If he appears you have a second to flip the monitor or put on the Freddy Mask, which causes him to immediately disappear. Otherwise he will attack.
 
-![[Pasted image 20251214114505.png|100]]
+![[GoldenFreddy.png|100]]
 
 Springtrap - 
 
