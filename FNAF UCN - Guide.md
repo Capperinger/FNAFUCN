@@ -71,7 +71,7 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Balloon_Boy
 Balloon Boy - Every time you raise the monitor there is a chance that balloon boy will be activated. On level 20 the chance is 66%. If the side vent is closed when the check happens he does not activate. When he activates he will appear in the side vent, and you have about 3.4 seconds to close the vent. If you open the Monitor while he is tin the side vent he will automatically enter. If he enters he will disable the flashlight for 10 seconds. If you block him you gain one Faz-Coin. He also has no jumpscare.
 
 ![[BBInVent.png|100]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Jay-Jay
 Jay-Jay - Every time you raise the monitor there is a chance that Jay-Jaya will be activated. On level 20 the chance is 66%. If the side vent is closed when the check happens she does not activate. When she activates she will appear in the side vent, and you have about 3.2 seconds to close the vent. If you open the Monitor while she is in the side vent she will automatically enter. If she enters she will disable the doors for 8.3 seconds. If you block her you gain one Faz-Coin. She also has no jumpscare.
 
 ![[JJInVent.png|100]]
