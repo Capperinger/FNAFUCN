@@ -87,12 +87,15 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Marionette
 Marionette - Every second the box meter is lowered. In level 1 it takes 50 seconds while in level 20 it takes 16.67 seconds. The Music Box can be manually wound up by going to CAM 04 and holding the button, which adds 10 units every milliseconds, or use the Global Music Box which adds 5 units every second. When he escapes, the ventilation will drain faster and every second you have the monitor up there is a 33% chance to attack the player. The Marionette can be eliminated for the night with a Death Coin.
 
 ![[Marionette.png|75]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Golden_Freddy
 Golden Freddy - Every time you flip the Monitor and he is not in the office, there is a chance that he will appear. On difficulty 1 its 1 in 40 while on difficulty 20 its 1 in 2. If he appears you have a second to flip the monitor or put on the Freddy Mask, which causes him to immediately disappear. Otherwise he will attack.
 
 ![[GoldenFreddy.png|100]]
 
-Springtrap - Crawls through the ventilation at the starting speed of 6. It is set to 1 when he turns a corner. The speed changes randomly every 6 seconds. Always takes the longest path. Ignores the vent snare and moves silently. When about to attack he can be seen from the vent staring at you. If he waits for more than 3.33 seconds and Withered Chica is not blocking him, he will attack when you raise the monitor. If he is blocked by the vent door, he will be sent back to the start of the vent system.
+
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Springtrap
+Springtrap - Crawls through the ventilation at the starting speed of 6. It is set to 1 when he turns a corner. The speed changes randomly every 6 seconds. Always takes the longest path. Ignores the vent snare and moves silently. When about to attack he can be seen from the vent staring at you. If he waits for more than 3.33 seconds and Withered Chica is not blocking him, he will attack when you raise the monitor. If he is blocked by the vent door, he will be sent back to the start of the vent system
+![[Pasted image 20251214145736.png|150]]
 
 Phantom Mangle
 
