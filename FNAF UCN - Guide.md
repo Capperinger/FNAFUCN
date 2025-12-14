@@ -55,7 +55,7 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Toy_Freddy
 Toy Freddy - He sits in the Parts and Service room(CAM 08), playing Five Nights With Mr. Hugs on his monitor. Find the monitor that Mr. Hugs is on and close the appropriate door to defend Toy Freddy from him. Every 10 seconds there is a chance that Mr. Hugs moves. If on CAM 08 during the refresh, then Mr. Hugs does not move. If Toy Freddy loses the game he will become angry. When angry every half-second there is a 10% chance that he will attack the player when the Monitor is up. He can be removed from the night using the Death Coin. But because of a bug he can still attack if used after being angered.
 
 ![[ToyFredMrHugs.png|200]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Toy_Bonnie
 Toy Bonnie - Every 15 seconds the game has a chance to activate him. In 20, the chance is 33%. To deactivate him you have to equip the Freddy Mask which lowers his active value by 1 every frame and by 2 if he is being looked at. After being looked at for 1.67 seconds he will leave. Otherwise it takes 3 seconds. You can take the mask off once the droning noise stops. If Toy Bonnie is in the office for more than 4 seconds the lights will flicker. If he is there for longer than 5 seconds he will attack.
 
 ![[ToyBonnie.png|75]]
