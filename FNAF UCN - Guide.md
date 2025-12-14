@@ -39,7 +39,7 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Freddy_Fazbear
 Freddy Fazbear - Slowly creeps on the left hallway on CAM 01, going through 4 phases before attacking. Attacks when the monitor is up with the left door open when progress is reached. The hotter the office the faster Freddy progresses.
 
 ![[Freddy.png|50]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Bonnie
 Bonnie - He shares Pirate's Cove with Foxy(CAM 05), the figurine on top of the desk will show who is currently active in Pirate's Cove. Every two seconds in the monitor is raised, the figurine has a 33% chance to change to the other character. If Bonnie is active in Pirate's Cove and the camera is active, he will scream for a moment and disables the monitors. While he is active, he negates the risk of Foxy. It is beneficial to leave Bonnie there so Foxy cannot harm the player. He can be death-coined, which also eliminates Foxy.
 
 ![[BonnieScream.png|200]]
