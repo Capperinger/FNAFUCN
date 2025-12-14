@@ -67,7 +67,7 @@ https://freddy-fazbears-pizza.fandom.com/wiki/Mangle
 Mangle - Mangles speed up when going through the vents. When he hits a corner her speed is set to 1. The chance for every route is equal. If the vent snare is activated on top of him and she is there for half a second, she will be sent back to the start, which is the only way to reset his progress in the vents.
 
 ![[Mangle.png|75]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Balloon_Boy
 Balloon Boy - Every time you raise the monitor there is a chance that balloon boy will be activated. On level 20 the chance is 66%. If the side vent is closed when the check happens he does not activate. When he activates he will appear in the side vent, and you have about 3.4 seconds to close the vent. If you open the Monitor while he is tin the side vent he will automatically enter. If he enters he will disable the flashlight for 10 seconds. If you block him you gain one Faz-Coin. He also has no jumpscare.
 
 ![[BBInVent.png|100]]
