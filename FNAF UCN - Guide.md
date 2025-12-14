@@ -93,6 +93,9 @@ Golden Freddy - Every time you flip the Monitor and he is not in the office, the
 ![[GoldenFreddy.png|100]]
 
 Springtrap - 
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Springtrap
+
+![[Pasted image 20251214145736.png|150]]
 
 Phantom Mangle
 
