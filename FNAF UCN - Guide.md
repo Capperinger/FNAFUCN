@@ -145,13 +145,19 @@ Orville Elephant
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Rockstar_Freddy
 Rockstar Freddy
 
-![[Pasted image 20251214151754.png|50]]
-
+![[Pasted image 20251214151754.png|75]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Rockstar_Bonnie
 Rockstar Bonnie
 
+![[Pasted image 20251214151852.png|75]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Rockstar_Chica
 Rockstar Chica
 
+![[Pasted image 20251214151918.png|75]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Rockstar_Foxy
 Rockstar Foxy
+
+![[Pasted image 20251214151957.png|75]]
 
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Music_Man
 Music Man
