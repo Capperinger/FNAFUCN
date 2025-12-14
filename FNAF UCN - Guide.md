@@ -93,6 +93,7 @@ Golden Freddy - Every time you flip the Monitor and he is not in the office, the
 ![[GoldenFreddy.png|100]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Springtrap
 Springtrap - Crawls through the ventilation at the starting speed of 6. It is set to 1 when he turns a corner. The speed changes randomly every 6 seconds. Always takes the longest path. Ignores the vent snare and moves silently. When about to attack he can be seen from the vent staring at you. If he waits for more than 3.33 seconds and Withered Chica is not blocking him, he will attack when you raise the monitor. If he is blocked by the vent door, he will be sent back to the start of the vent system.
+
 ![[Springtrap.png|150]]
 
 Phantom Mangle - 
@@ -151,19 +152,36 @@ Rockstar Foxy
 
 Music Man
 
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/El_Chip
 El Chip
+![[Pasted image 20251214151329.png|100]]
 
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Funtime_Chica
 Funtime Chica
 
+![[Pasted image 20251214151251.png|150]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Molten_Freddy
 Molten Freddy
 
-Scrapbaby
+![[Pasted image 20251214151051.png|75]]
 
-Afton
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Scrap_Baby
+Scrap Baby
 
+![[Pasted image 20251214151019.png|100]]
+
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/William_Afton
+Scraptrap
+
+![[Pasted image 20251214150940.png|50]]
+
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Lefty
 Lefty
-
+![[Pasted image 20251214150836.png|150]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Phone_Guy
 Phone Guy
+
+![[Pasted image 20251214150751.png|75]]
 ### Mechanics
 
 Toy Freddy TV - Close doors that Mr.Huggs is on in Parts and Services room
