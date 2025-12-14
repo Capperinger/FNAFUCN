@@ -104,6 +104,18 @@ Nightmare Freddy
 
 Nightmare Bonnie
 
+Nightmare Fredbear
+
+Nightmare
+
+Jack-O-Chica
+
+Nightmare Mangle
+
+Nightmarionne
+
+
+
 ### Mechanics
 
 Toy Freddy TV - Close doors that Mr.Huggs is on in Parts and Services room
