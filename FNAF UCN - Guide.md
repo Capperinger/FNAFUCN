@@ -35,6 +35,7 @@ Spacebar - Desk Fan On/Off
 Esc - Return to Menu
 ### Characters
 
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Freddy_Fazbear
 Freddy Fazbear - Slowly creeps on the left hallway on CAM 01, going through 4 phases before attacking. Attacks when the monitor is up with the left door open when progress is reached. The hotter the office the faster Freddy progresses.
 
 ![[Freddy.png|50]]
