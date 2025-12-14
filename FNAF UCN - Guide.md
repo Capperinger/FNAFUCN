@@ -114,8 +114,55 @@ Nightmare Mangle
 
 Nightmarionne
 
+Nightmare Balloon Boy
 
+Old Man Consequences
 
+Circus Baby
+
+Ballora
+
+Funtime Foxy
+
+Ennard
+
+Trash Gang
+
+Helpy
+
+Happy Frog
+
+Mr. Hippo
+
+Pigpatch
+
+Nedd Bear
+
+Orville Elephant
+
+Rockstar Freddy
+
+Rockstar Bonnie
+
+Rockstar Chica
+
+Rockstar Foxy
+
+Music Man
+
+El Chip
+
+Funtime Chica
+
+Molten Freddy
+
+Scrapbaby
+
+Afton
+
+Lefty
+
+Phone Guy
 ### Mechanics
 
 Toy Freddy TV - Close doors that Mr.Huggs is on in Parts and Services room
