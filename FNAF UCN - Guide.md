@@ -51,23 +51,23 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Foxy
 Foxy - Shares Pirate's Cove with Bonnie(CAM 05). When viewed by the camera, he will be slowed down, preventing him from attacking you. If he succeeds getting into the office he will toss in his parts, slowly building himself while the player flips the monitor. Once he finishes, he will attack. Look at figurine on the desk to tell who is in pirate cove. If you eliminate him with a death coin, Bonnie also dies.
 
 ![[FoxyCove.png|200]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Toy_Freddy
 Toy Freddy - He sits in the Parts and Service room(CAM 08), playing Five Nights With Mr. Hugs on his monitor. Find the monitor that Mr. Hugs is on and close the appropriate door to defend Toy Freddy from him. Every 10 seconds there is a chance that Mr. Hugs moves. If on CAM 08 during the refresh, then Mr. Hugs does not move. If Toy Freddy loses the game he will become angry. When angry every half-second there is a 10% chance that he will attack the player when the Monitor is up. He can be removed from the night using the Death Coin. But because of a bug he can still attack if used after being angered.
 
 ![[ToyFredMrHugs.png|200]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Toy_Bonnie
 Toy Bonnie - Every 15 seconds the game has a chance to activate him. In 20, the chance is 33%. To deactivate him you have to equip the Freddy Mask which lowers his active value by 1 every frame and by 2 if he is being looked at. After being looked at for 1.67 seconds he will leave. Otherwise it takes 3 seconds. You can take the mask off once the droning noise stops. If Toy Bonnie is in the office for more than 4 seconds the lights will flicker. If he is there for longer than 5 seconds he will attack.
 
 ![[ToyBonnie.png|75]]
-
+https://freddy-fazbears-pizza.fandom.com/wiki/Toy_Chica
 Toy Chica- Every 14 seconds the game has a chance to activate her. In 20, the chance is 33%. To deactivate her you have to equip the Freddy Mask which lowers her active value by 1 every frame and by 2 if she is being looked at. After being looked at for 1.67 seconds she will leave. Otherwise it takes 3 seconds. You can take the mask off once the droning noise stops. If Toy Chica is in the office for more than 4 seconds the lights will flicker. If she is there for longer than 5 seconds she will attack.
 
 ![[ToyChica.png|75]]
-
+https://freddy-fazbears-pizza.fandom.com/wiki/Mangle
 Mangle - Mangles speed up when going through the vents. When he hits a corner her speed is set to 1. The chance for every route is equal. If the vent snare is activated on top of him and she is there for half a second, she will be sent back to the start, which is the only way to reset his progress in the vents.
 
 ![[Mangle.png|75]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Balloon_Boy
 Balloon Boy - Every time you raise the monitor there is a chance that balloon boy will be activated. On level 20 the chance is 66%. If the side vent is closed when the check happens he does not activate. When he activates he will appear in the side vent, and you have about 3.4 seconds to close the vent. If you open the Monitor while he is tin the side vent he will automatically enter. If he enters he will disable the flashlight for 10 seconds. If you block him you gain one Faz-Coin. He also has no jumpscare.
 
 ![[BBInVent.png|100]]
