@@ -150,10 +150,14 @@ Rockstar Chica
 
 Rockstar Foxy
 
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Music_Man
 Music Man
+
+![[Pasted image 20251214151700.png|75]]
 
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/El_Chip
 El Chip
+
 ![[Pasted image 20251214151329.png|100]]
 
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Funtime_Chica
