@@ -138,10 +138,14 @@ Mr. Hippo
 
 Pigpatch
 
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nedd_Bear
 Nedd Bear
 
+![[Pasted image 20251214152143.png|75]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Orville_Elephant
 Orville Elephant
 
+![[Pasted image 20251214152118.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Rockstar_Freddy
 Rockstar Freddy
 
