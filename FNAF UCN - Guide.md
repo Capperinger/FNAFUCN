@@ -63,7 +63,7 @@ https://freddy-fazbears-pizza.fandom.com/wiki/Toy_Chica
 Toy Chica- Every 14 seconds the game has a chance to activate her. In 20, the chance is 33%. To deactivate her you have to equip the Freddy Mask which lowers her active value by 1 every frame and by 2 if she is being looked at. After being looked at for 1.67 seconds she will leave. Otherwise it takes 3 seconds. You can take the mask off once the droning noise stops. If Toy Chica is in the office for more than 4 seconds the lights will flicker. If she is there for longer than 5 seconds she will attack.
 
 ![[ToyChica.png|75]]
-
+https://freddy-fazbears-pizza.fandom.com/wiki/Mangle
 Mangle - Mangles speed up when going through the vents. When he hits a corner her speed is set to 1. The chance for every route is equal. If the vent snare is activated on top of him and she is there for half a second, she will be sent back to the start, which is the only way to reset his progress in the vents.
 
 ![[Mangle.png|75]]
