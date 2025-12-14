@@ -181,6 +181,7 @@ Scraptrap
 
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Lefty
 Lefty
+
 ![[Pasted image 20251214150836.png|150]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Phone_Guy
 Phone Guy
