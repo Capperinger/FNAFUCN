@@ -93,7 +93,7 @@ Golden Freddy - Every time you flip the Monitor and he is not in the office, the
 ![[GoldenFreddy.png|100]]
 
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Springtrap
-Springtrap - Crawls through the ventilation at the starting speed of 6. It is set to 1 when he turns a corner. The speed changes randomly every 6 seconds. Always takes the longest path. Ignores the vent snare and moves silently. When about to attack he can be seen from the vent staring at you. If he waits for more than 3.33 seconds and Withered Chica is not blocking him, he will attack when you raise the monitor. If he is blocked by the vent door, he will be sent back to the start of the vent system
+Springtrap - Crawls through the ventilation at the starting speed of 6. It is set to 1 when he turns a corner. The speed changes randomly every 6 seconds. Always takes the longest path. Ignores the vent snare and moves silently. When about to attack he can be seen from the vent staring at you. If he waits for more than 3.33 seconds and Withered Chica is not blocking him, he will attack when you raise the monitor. If he is blocked by the vent door, he will be sent back to the start of the vent system.
 ![[Springtrap.png|150]]
 
 Phantom Mangle - 
