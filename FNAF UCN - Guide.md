@@ -136,8 +136,10 @@ Happy Frog
 
 Mr. Hippo
 
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Pigpatch
 Pigpatch
 
+![[Pasted image 20251214152230.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nedd_Bear
 Nedd Bear
 
