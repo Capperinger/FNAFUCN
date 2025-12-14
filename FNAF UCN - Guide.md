@@ -51,7 +51,7 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Foxy
 Foxy - Shares Pirate's Cove with Bonnie(CAM 05). When viewed by the camera, he will be slowed down, preventing him from attacking you. If he succeeds getting into the office he will toss in his parts, slowly building himself while the player flips the monitor. Once he finishes, he will attack. Look at figurine on the desk to tell who is in pirate cove. If you eliminate him with a death coin, Bonnie also dies.
 
 ![[FoxyCove.png|200]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Toy_Freddy
 Toy Freddy - He sits in the Parts and Service room(CAM 08), playing Five Nights With Mr. Hugs on his monitor. Find the monitor that Mr. Hugs is on and close the appropriate door to defend Toy Freddy from him. Every 10 seconds there is a chance that Mr. Hugs moves. If on CAM 08 during the refresh, then Mr. Hugs does not move. If Toy Freddy loses the game he will become angry. When angry every half-second there is a 10% chance that he will attack the player when the Monitor is up. He can be removed from the night using the Death Coin. But because of a bug he can still attack if used after being angered.
 
 ![[ToyFredMrHugs.png|200]]
