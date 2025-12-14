@@ -41,11 +41,11 @@ Freddy Fazbear - Slowly creeps on the left hallway on CAM 01, going through 4 ph
 
 Bonnie - He shares Pirate's Cove with Foxy(CAM 05), the figurine on top of the desk will show who is currently active in Pirate's Cove. Every two seconds in the monitor is raised, the figurine has a 33% chance to change to the other character. If Bonnie is active in Pirate's Cove and the camera is active, he will scream for a moment and disables the monitors. While he is active, he negates the risk of Foxy. It is beneficial to leave Bonnie there so Foxy cannot harm the player. He can be death-coined, which also eliminates Foxy.
 
-![[Pasted image 20251214001903.png|200]]
+![[BonnieScream.png|200]]
 
 Chica - She doesn't care about the status of the Music box. She gets tired from the same song that is being played. Every 15 seconds a check is made to see if she gets bored. If she becomes unhappy she will stop making noise. You have to change music immediately on CAM 04. Having the global music box active on the 15-second intervals will also soothe her. If two of the 15-second checks are missed in a row, she will become angry and leave the Kitchen to hunt down the player. If the player changes the music while she is making noise, she will immediately become angry. Once angry ,she cannot be calmed down, she has a 20% chance every half-second to attack the player whenever the Monitor is up.
 
-![[Pasted image 20251214001731.png|75]]
+![[Chica.png|75]]
 
 Foxy - Shares Pirate's Cove with Bonnie(CAM 05). When viewed by the camera, he will be slowed down, preventing him from attacking you. If he succeeds getting into the office he will toss in his parts, slowly building himself while the player flips the monitor. Once he finishes, he will attack. Look at figurine on the desk to tell who is in pirate cove. If you eliminate him with a death coin, Bonnie also dies.
 
