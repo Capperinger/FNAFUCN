@@ -95,11 +95,14 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Springtrap
 Springtrap - Crawls through the ventilation at the starting speed of 6. It is set to 1 when he turns a corner. The speed changes randomly every 6 seconds. Always takes the longest path. Ignores the vent snare and moves silently. When about to attack he can be seen from the vent staring at you. If he waits for more than 3.33 seconds and Withered Chica is not blocking him, he will attack when you raise the monitor. If he is blocked by the vent door, he will be sent back to the start of the vent system.
 
 ![[Springtrap.png|150]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Phantom_Mangle
+Phantom Mangle - Every time the Monitor is raised, there is a 1 in 60 on level 1 difficulty and 1 in 3 on level 20. Can be dodged by  selecting any of the system buttons, including setting the camera to itself , or you can just put the monitor away. If stared at for more than 0.83 seconds he will enter the Office, adding a level of noise and emits a scream. He will remain there for more than 7 seconds and less than 10.
 
-Phantom Mangle - 
+![[Pasted image 20251214221911.png|100]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Phantom_Freddy
+Phantom Freddy - 
 
-Phantom Freddy
-
+![[Pasted image 20251214221939.png|100]]
 Phantom BB
 
 Nightmare Freddy
