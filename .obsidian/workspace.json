@@ -11,17 +11,40 @@
             "id": "ae67378c57154f32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "FNAF UCN - Guide.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Jack-O-Chica.png"
               },
-              "icon": "lucide-file",
-              "title": "FNAF UCN - Guide"
+              "icon": "lucide-image",
+              "title": "Jack-O-Chica"
+            }
+          },
+          {
+            "id": "f70379944b8554e6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Ennard.png"
+              },
+              "icon": "lucide-image",
+              "title": "Ennard"
+            }
+          },
+          {
+            "id": "12fd14f2ff9e7cf3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/FoxyCove.png"
+              },
+              "icon": "lucide-image",
+              "title": "FoxyCove"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,20 +203,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae67378c57154f32",
+  "active": "067bfff98d8cd4a4",
   "lastOpenFiles": [
-    "Pasted image 20251215170052.png",
-    "Pasted image 20251215170028.png",
-    "Pasted image 20251215170006.png",
-    "TrashAndTheGang.png",
-    "ennard.png",
-    "FuntimeFoxy.png",
-    "Ballora.png",
-    "CircusBaby.png",
-    "OMC.png",
-    "NightmareBB.png",
-    "Nightmarionne.png",
+    "Images/ElChip.png",
+    "Images",
+    "Images/Ennard.png",
     "FNAF UCN - Guide.md",
+    "Images/Jack-O-Chica.png",
+    "Images/Mr.Hippo.png",
+    "Images/HappyFrog.png",
+    "Images/Helpy.png",
+    "Images/TrashAndTheGang.png",
+    "Images/FuntimeFoxy.png",
+    "Images/Ballora.png",
+    "Images/CircusBaby.png",
+    "Images/OMC.png",
     "conflict-files-obsidian-git.md",
     "Games.md"
   ]
