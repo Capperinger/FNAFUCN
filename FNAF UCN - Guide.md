@@ -104,7 +104,7 @@ Phantom Freddy - In the office he fades in. The higher the heat the more he will
 
 ![[PhantomFreddy.png|100]]
 
-Phantom BB - Every time you raise the monitor there is a chance that he spawns. With level 1 the chance is 1 in 50 while on level 20 the chance is 2 in 5. He can be despawned by switching to the vent or duct system, reselecting your camera, selecting a new camera or turning the monitor down. If he's stared for longer than a second he will turn the monitor off and jumpscare you. When you are blacked out it blocks out visibility within the Office temporarily which is lethal with Golden Freddy,
+Phantom Balloon Boy - Every time you raise the monitor there is a chance that he spawns. With level 1 the chance is 1 in 50 while on level 20 the chance is 2 in 5. He can be despawned by switching to the vent or duct system, reselecting your camera, selecting a new camera or turning the monitor down. If he's stared for longer than a second he will turn the monitor off and jumpscare you. When you are blacked out it blocks out visibility within the Office temporarily which is lethal with Golden Freddy,
 
 Nightmare Freddy - Every second you turn the camera there is a 66% a Freddle will appear in the Office. SHining the flashlight on them will make them despawn. With 1 or 2 Freddles, there will be a 5% chance to disappear every frame and with more than 3 a 10%. Up to 5 show but the actual limit is 7 for him to spawn. Once the number is reached, having the monitor up will cause him to attack. If needed to use the monitor for a long time you can use the flashlight while using the monitor to send the Freddles away. But they will start coming back when you stop.
 
@@ -128,9 +128,9 @@ Circus Baby - Circus Baby is identical to every single plush animatronic. She sh
 
 Ballora - Every 14 seconds on level 20 there is a 50% chance that she will start her attack. She will approach from either the right or left hall, playing her music associated with the side. During her attack, all cameras will be diabled. After 1.67 seconds into her attack, the lights will being to flicker. You have about 2 seconds to close the door that she is approaching from to defend against her.
 
-Funtime Foxy
+Funtime Foxy - Funtime foxy is  at CAM 06 in Funtime Cove, looking from the curtain. His first showtime is from 1AM to 3AM. If the player is not on CAM 06 at the exact time he will immmediately attack. If he is observed a new time will be selected anywhere from 1 to 3 hours later. He is no0t effected by the difficulty level. He can kill at 4:30 if not observed at 6AM. Every hour is 45 seconds.
 
-Ennard
+Ennard - Ennard is not like most animatronics. His  starting speed is 1 but every time he turns a corner the speed is set to 5. He's difficult to see on the vent monitor. He will always take the middle path and cannot be stpoped by the vent snare. When he reaches the opening he makes a squeaking noise. He will wait for about 3.3 seconds before attacking after the Monitor is raiced. If you block him, he will be sent back to the start of the vent system.
 
 Trash Gang
 
