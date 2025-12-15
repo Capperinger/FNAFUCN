@@ -143,11 +143,14 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Old_Man_Consequences
 Old Man Consequences - Every 5 seconds that his game is not active and the Monitor is not locked by him the game has a 66% chance to activate it in level 20. The player has about 3 seconds to catch the fish by pressing C when the fish in the center cross, or he will lock the Monitor for about 8-10 seconds.
 
 ![[Pasted image 20251215165352.png|100]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Circus_Baby
 Circus Baby - Circus Baby is identical to every single plush animatronic. She shows up at either 1 Am, 3 Am, or 5 AM on CAM 02. When she appears, the player needs to purchase the plushie on CAM07 within 20 seconds to prevent her from attacking. She can be cam-stalled on CAM 02, negating her as a threat so long as the camera remains there. However, this will force the player into cam-stalling her for the entire night as if you change the camera she attacks. If a new plush animatronic spawns they will cancel her and her attack will be stopped.
 
+![[Pasted image 20251215165419.png|150]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Ballora
 Ballora - Every 14 seconds on level 20 there is a 50% chance that she will start her attack. She will approach from either the right or left hall, playing her music associated with the side. During her attack, all cameras will be disabled. After 1.67 seconds into her attack, the lights will being to flicker. You have about 2 seconds to close the door that she is approaching from to defend against her.
 
+![[Pasted image 20251215165446.png|100]]
 Funtime Foxy - Funtime foxy is  at CAM 06 in Funtime Cove, looking from the curtain. His first showtime is from 1AM to 3AM. If the player is not on CAM 06 at the exact time he will immediately attack. If he is observed a new time will be selected anywhere from 1 to 3 hours later. He is no0t effected by the difficulty level. He can kill at 4:30 if not observed at 6AM. Every hour is 45 seconds.
 
 Ennard - Ennard is not like most animatronics. His  starting speed is 1 but every time he turns a corner the speed is set to 5. He's difficult to see on the vent monitor. He will always take the middle path and cannot be stopped by the vent snare. When he reaches the opening he makes a squeaking noise. He will wait for about 3.3 seconds before attacking after the Monitor is raised. If you block him, he will be sent back to the start of the vent system.
