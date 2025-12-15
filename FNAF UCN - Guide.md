@@ -98,11 +98,11 @@ Springtrap - Crawls through the ventilation at the starting speed of 6. It is se
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Phantom_Mangle
 Phantom Mangle - Every time the Monitor is raised, there is a 1 in 60 on level 1 difficulty and 1 in 3 on level 20. Can be dodged by  selecting any of the system buttons, including setting the camera to itself , or you can just put the monitor away. If stared at for more than 0.83 seconds he will enter the Office, adding a level of noise and emits a scream. He will remain there for more than 7 seconds and less than 10.
 
-![[Pasted image 20251214221911.png|100]]
+![[PhantomMangle.png|100]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Phantom_Freddy
 Phantom Freddy - In the office he fades in. The higher the heat the more he will fade in. If he fully fades in he will jumpscare you and will fade out. While jumpscared he will black out the screen and will allow for any vent animatronic to enter the Office as long as the center vent door is open when it occurs.
 
-![[Pasted image 20251214221939.png|100]]
+![[PhantomFreddy.png|100]]
 
 Phantom BB
 
@@ -143,69 +143,69 @@ Mr. Hippo
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Pigpatch
 Pigpatch
 
-![[Pasted image 20251214152230.png|75]]
+![[PigSomething.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nedd_Bear
 Nedd Bear
 
-![[Pasted image 20251214152143.png|75]]
+![[NeddBear.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Orville_Elephant
 Orville Elephant
 
-![[Pasted image 20251214152118.png|75]]
+![[OrvilleElephant.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Rockstar_Freddy
 Rockstar Freddy
 
-![[Pasted image 20251214151754.png|75]]
+![[RockstarFreddy.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Rockstar_Bonnie
 Rockstar Bonnie
 
-![[Pasted image 20251214151852.png|75]]
+![[RockstarBonnie.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Rockstar_Chica
 Rockstar Chica
 
-![[Pasted image 20251214151918.png|75]]
+![[RockstarChica.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Rockstar_Foxy
 Rockstar Foxy
 
-![[Pasted image 20251214151957.png|75]]
+![[RockstarFoxy.png|75]]
 
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Music_Man
 Music Man
 
-![[Pasted image 20251214151700.png|75]]
+![[MusicMan.png|75]]
 
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/El_Chip
 El Chip
 
-![[Pasted image 20251214151329.png|100]]
+![[Elchip.png|100]]
 
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Funtime_Chica
 Funtime Chica
 
-![[Pasted image 20251214151251.png|150]]
+![[FuntimeChica.png|150]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Molten_Freddy
 Molten Freddy
 
-![[Pasted image 20251214151051.png|75]]
+![[MoltenFreddy.png|75]]
 
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Scrap_Baby
 Scrap Baby
 
-![[Pasted image 20251214151019.png|100]]
+![[ScrapBaby.png|100]]
 
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/William_Afton
 Scraptrap
 
-![[Pasted image 20251214150940.png|50]]
+![[Scraptrap.png|50]]
 
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Lefty
 Lefty
 
-![[Pasted image 20251214150836.png|150]]
+![[Lefty.png|150]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Phone_Guy
 Phone Guy
 
-![[Pasted image 20251214150751.png|75]]
+![[PhoneGuy.png|75]]
 ### Mechanics
 
 Toy Freddy TV - Close doors that Mr.Huggs is on in Parts and Services room
