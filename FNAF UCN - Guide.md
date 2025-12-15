@@ -151,12 +151,18 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Ballora
 Ballora - Every 14 seconds on level 20 there is a 50% chance that she will start her attack. She will approach from either the right or left hall, playing her music associated with the side. During her attack, all cameras will be disabled. After 1.67 seconds into her attack, the lights will being to flicker. You have about 2 seconds to close the door that she is approaching from to defend against her.
 
 ![[Pasted image 20251215165446.png|100]]
-Funtime Foxy - Funtime foxy is  at CAM 06 in Funtime Cove, looking from the curtain. His first showtime is from 1AM to 3AM. If the player is not on CAM 06 at the exact time he will immediately attack. If he is observed a new time will be selected anywhere from 1 to 3 hours later. He is no0t effected by the difficulty level. He can kill at 4:30 if not observed at 6AM. Every hour is 45 seconds.
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Funtime_Foxy
+Funtime Foxy - Funtime foxy is  at CAM 06 in Funtime Cove, looking from the curtain. His first showtime is from 1AM to 3AM. If the player is not on CAM 06 at the exact time he will immediately attack. If he is observed a new time will be selected anywhere from 1 to 3 hours later. He is not effected by the difficulty level. He can kill at 4:30 if not observed at 6AM. Every hour is 45 seconds.
 
+![[Pasted image 20251215165526.png|150]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Ennard
 Ennard - Ennard is not like most animatronics. His  starting speed is 1 but every time he turns a corner the speed is set to 5. He's difficult to see on the vent monitor. He will always take the middle path and cannot be stopped by the vent snare. When he reaches the opening he makes a squeaking noise. He will wait for about 3.3 seconds before attacking after the Monitor is raised. If you block him, he will be sent back to the start of the vent system.
 
+![[Pasted image 20251215165655.png|75]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Trash_and_the_Gang
 Trash and the Gang - Mr. Can-Do randomly appears  on a camera whenever the Monitor is flipped down, blocking the majority of the screen. Every time the Monitor is raised, there is a chance that No. 1 Crate will appear in the Office. She will whisper the first time she shows up, then again after every 7 seconds. After 3 seconds of being in the Office, she has a 50% chance of jumpscaring you, which will a sound and get into your face. It lasts for 0.83 seconds. It does not force down the Monitor, and will appear on top of it instead. It doesn't add any noise though.
 
+![[Pasted image 20251215165737.png|100]]
 Helpy
 
 Happy Frog
