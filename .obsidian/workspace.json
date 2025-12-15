@@ -35,12 +35,14 @@
             "id": "12fd14f2ff9e7cf3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/FoxyCove.png"
+                "file": "FNAF UCN - Guide.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "FoxyCove"
+              "icon": "lucide-file",
+              "title": "FNAF UCN - Guide"
             }
           }
         ],
@@ -203,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "067bfff98d8cd4a4",
+  "active": "12fd14f2ff9e7cf3",
   "lastOpenFiles": [
+    "Images/FoxyCove.png",
     "Images/ElChip.png",
     "Images",
     "Images/Ennard.png",
@@ -217,7 +220,6 @@
     "Images/FuntimeFoxy.png",
     "Images/Ballora.png",
     "Images/CircusBaby.png",
-    "Images/OMC.png",
     "conflict-files-obsidian-git.md",
     "Games.md"
   ]
