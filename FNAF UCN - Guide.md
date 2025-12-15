@@ -100,9 +100,10 @@ Phantom Mangle - Every time the Monitor is raised, there is a 1 in 60 on level 1
 
 ![[Pasted image 20251214221911.png|100]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Phantom_Freddy
-Phantom Freddy - 
+Phantom Freddy - In the office he fades in. The higher the heat the more he will fade in. If he fully fades in he will jumpscare you and will fade out. While jumpscared he will black out the screen and will allow for any vent animatronic to enter the Office as long as the center vent door is open when it occurs.
 
 ![[Pasted image 20251214221939.png|100]]
+
 Phantom BB
 
 Nightmare Freddy
