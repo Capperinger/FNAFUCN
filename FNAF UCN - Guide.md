@@ -139,8 +139,10 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare_Balloon_Boy
 Nightmare Balloon Boy - Sits in the office the entire time. He's located in the right side. Every time the camera is flipped there is a chance that he becomes active. On level 20 it's 50%. When he is standing you must shine the flashlight on him to make him sit down again, otherwise he will attack the next time the Monitor is activated. Also, shining him when he is sitting will force him to attack the player.
 
 ![[Pasted image 20251215165226.png|150]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Old_Man_Consequences
 Old Man Consequences - Every 5 seconds that his game is not active and the Monitor is not locked by him the game has a 66% chance to activate it in level 20. The player has about 3 seconds to catch the fish by pressing C when the fish in the center cross, or he will lock the Monitor for about 8-10 seconds.
+
+![[Pasted image 20251215165352.png|100]]
 
 Circus Baby - Circus Baby is identical to every single plush animatronic. She shows up at either 1 Am, 3 Am, or 5 AM on CAM 02. When she appears, the player needs to purchase the plushie on CAM07 within 20 seconds to prevent her from attacking. She can be cam-stalled on CAM 02, negating her as a threat so long as the camera remains there. However, this will force the player into cam-stalling her for the entire night as if you change the camera she attacks. If a new plush animatronic spawns they will cancel her and her attack will be stopped.
 
