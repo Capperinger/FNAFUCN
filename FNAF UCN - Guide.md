@@ -126,7 +126,7 @@ Old Man Consequences - Every 5 seconds that his game is not active and the Monit
 
 Circus Baby - Circus Baby is identical to every single plush animatronic. She shows up at either 1 Am, 3 Am, or 5 AM on CAM 02. When she appears, the player needs to purchase the plushie on CAM07 within 20 seconds to prevent her from attacking. She can be cam-stalled on CAM 02, negating her as a threat so long as the camera remains there. However, this will force the player into cam-stalling her for the entire night as if you change the camera she attacks. If a new plush animatronic spawns they will cancel her and her attack will be stopped.
 
-Ballora
+Ballora - Every 14 seconds on level 20 there is a 50% chance that she will start her attack. She will approach from either the right or left hall, playing her music associated with the side. During her attack, all cameras will be diabled. After 1.67 seconds into her attack, the lights will being to flicker. You have about 2 seconds to close the door that she is approaching from to defend against her.
 
 Funtime Foxy
 
