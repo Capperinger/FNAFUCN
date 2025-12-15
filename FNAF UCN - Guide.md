@@ -103,24 +103,40 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Phantom_Freddy
 Phantom Freddy - In the office he fades in. The higher the heat the more he will fade in. If he fully fades in he will jumpscare you and will fade out. While jumpscared he will black out the screen and will allow for any vent animatronic to enter the Office as long as the center vent door is open when it occurs.
 
 ![[PhantomFreddy.png|100]]
-
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Phantom_BB
 Phantom Balloon Boy - Every time you raise the monitor there is a chance that he spawns. With level 1 the chance is 1 in 50 while on level 20 the chance is 2 in 5. He can be despawned by switching to the vent or duct system, reselecting your camera, selecting a new camera or turning the monitor down. If he's stared for longer than a second he will turn the monitor off and jumpscare you. When you are blacked out it blocks out visibility within the Office temporarily which is lethal with Golden Freddy,
 
-Nightmare Freddy - Every second you turn the camera there is a 66% a Freddle will appear in the Office. SHining the flashlight on them will make them despawn. With 1 or 2 Freddles, there will be a 5% chance to disappear every frame and with more than 3 a 10%. Up to 5 show but the actual limit is 7 for him to spawn. Once the number is reached, having the monitor up will cause him to attack. If needed to use the monitor for a long time you can use the flashlight while using the monitor to send the Freddles away. But they will start coming back when you stop.
+![[Pasted image 20251215164709.png|100]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare_Freddy
+Nightmare Freddy - Every second you turn the camera there is a 66% a Freddle will appear in the Office. Shining the flashlight on them will make them despawn. With 1 or 2 Freddles, there will be a 5% chance to disappear every frame and with more than 3 a 10%. Up to 5 show but the actual limit is 7 for him to spawn. Once the number is reached, having the monitor up will cause him to attack. If needed to use the monitor for a long time you can use the flashlight while using the monitor to send the Freddles away. But they will start coming back when you stop.
 
+![[Pasted image 20251215164749.png|75]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare_Bonnie
 Nightmare Bonnie - Nightmare bonnie is identical to every single plush animatronic. He shows up at either 1 Am, 3 Am, or 5 AM on CAM 02. When he appears, the player needs to purchase the plushie on CAM07 within 20 seconds to prevent him from attacking. He can be cam-stalled on CAM 02, negating him as a threat so long as the camera remains there. However, this will force the player into cam-stalling him for the entire night as if you change the camera he attacks. If a new plush animatronic spawns they will cancel him and his attack will be stopped.
 
-Nightmare Fredbear - Identical to Nightmare. Every 5 seconds tha the Monitor is raised. There is a 50% chance for him to laugh and appear outside the left doorway, with him staring into the Office, he's invisible on cameras. The player has 3.33 seconds to close the door or he will attack when the Monitor is raised.
+![[Pasted image 20251215164831.png|75]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare_Fredbear
+Nightmare Fredbear - Identical to Nightmare. Every 5 seconds the the Monitor is raised. There is a 50% chance for him to laugh and appear outside the left doorway, with him staring into the Office, he's invisible on cameras. The player has 3.33 seconds to close the door or he will attack when the Monitor is raised.
 
-Nightmare - Identical to Nightmare Fredbear. Every 5 seconds tha the Monitor is raised. There is a 50% chance for him to laugh and appear outside the left doorway, with him staring into the Office, he's invisible on cameras. The player has 3.33 seconds to close the door or he will attack when the Monitor is raised.
+![[Pasted image 20251215164907.png|75]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare
+Nightmare - Identical to Nightmare Fredbear. Every 5 seconds the the Monitor is raised. There is a 50% chance for him to laugh and appear outside the left doorway, with him staring into the Office, he's invisible on cameras. The player has 3.33 seconds to close the door or he will attack when the Monitor is raised.
 
+![[Pasted image 20251215164929.png|75]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Jack-O-Chica
 Jack-O-Chica - When the heat is at 90 degrees, she materializes in both halls at the same time. After 4 minutes on level 1 or 12.5 seconds on level 20 she will fully materialize and attack. If the Office is below 100 degrees and both doors are closed her value decrease by 10 every frame, down to a minimum of -50. If the office is about 100 degrees, closing the doors won't do anything. She does not decay on her own, even if the Office is cooled down to 60 degrees; both doors must be closed to reverse her progress.
 
+![[Pasted image 20251215165053.png|75]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare_Mangle
 Nightmare Mangle - Nightmare Mangle is identical to every single plush animatronic. He shows up at either 1 Am, 3 Am, or 5 AM on CAM 02. When he appears, the player needs to purchase the plushie on CAM07 within 20 seconds to prevent him from attacking. He can be cam-stalled on CAM 02, negating him as a threat so long as the camera remains there. However, this will force the player into cam-stalling him for the entire night as if you change the camera he attacks. If a new plush animatronic spawns they will cancel him and his attack will be stopped.
 
+![[Pasted image 20251215165111.png|150]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmarionne
 Nightmarionne - Has six locations that he can be in the Office, four are in the middle, two are in the upper-left corner. The locations are random. and changes if fully invisible. Has a invisiblity value. This value decreases when you hover the cursor over him. The value decreases faster with the levle. At level 20 you have about 0.85 seconds to take the cursor off.
 
-Nightmare Balloon Boy - Sits in the office the entire time. He's located in the right side. Every time the camera is flipped there is a chance that he becomes active. On level 20 it's 50%. When he is standing you must shine the flashlight on him to make him sit down again, otherwise he will attack the next time the Montior is activated. Also, shining him when he is sitting will force him to attack the player.
+![[Pasted image 20251215165154.png]]
+
+Nightmare Balloon Boy - Sits in the office the entire time. He's located in the right side. Every time the camera is flipped there is a chance that he becomes active. On level 20 it's 50%. When he is standing you must shine the flashlight on him to make him sit down again, otherwise he will attack the next time the Monitor is activated. Also, shining him when he is sitting will force him to attack the player.
 
 Old Man Consequences - Every 5 seconds that his game is not active and the Monitor is not locked by him the game has a 66% chance to activate it in level 20. The player has about 3 seconds to catch the fish by pressing C when the fish in the center corss, or he will lock the Monitor for about 8-10 seconds.
 
