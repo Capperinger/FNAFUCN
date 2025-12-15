@@ -108,23 +108,23 @@ Phantom BB - Every time you raise the monitor there is a chance that he spawns. 
 
 Nightmare Freddy - Every second you turn the camera there is a 66% a Freddle will appear in the Office. SHining the flashlight on them will make them despawn. With 1 or 2 Freddles, there will be a 5% chance to disappear every frame and with more than 3 a 10%. Up to 5 show but the actual limit is 7 for him to spawn. Once the number is reached, having the monitor up will cause him to attack. If needed to use the monitor for a long time you can use the flashlight while using the monitor to send the Freddles away. But they will start coming back when you stop.
 
-Nightmare Bonnie
+Nightmare Bonnie - Nightmare bonnie is identical to every single plush animatronic. He shows up at either 1 Am, 3 Am, or 5 AM on CAM 02. When he appears, the player needs to purchase the plushie on CAM07 within 20 seconds to prevent him from attacking. He can be cam-stalled on CAM 02, negating him as a threat so long as the camera remains there. However, this will force the player into cam-stalling him for the entire night as if you change the camera he attacks. If a new plush animatronic spawns they will cancel him and his attack will be stopped.
 
-Nightmare Fredbear
+Nightmare Fredbear - Identical to Nightmare. Every 5 seconds tha the Monitor is raised. There is a 50% chance for him to laugh and appear outside the left doorway, with him staring into the Office, he's invisible on cameras. The player has 3.33 seconds to close the door or he will attack when the Monitor is raised.
 
-Nightmare
+Nightmare - Identical to Nightmare Fredbear. Every 5 seconds tha the Monitor is raised. There is a 50% chance for him to laugh and appear outside the left doorway, with him staring into the Office, he's invisible on cameras. The player has 3.33 seconds to close the door or he will attack when the Monitor is raised.
 
-Jack-O-Chica
+Jack-O-Chica - When the heat is at 90 degrees, she materializes in both halls at the same time. After 4 minutes on level 1 or 12.5 seconds on level 20 she will fully materialize and attack. If the Office is below 100 degrees and both doors are closed her value decrease by 10 every frame, down to a minimum of -50. If the office is about 100 degrees, closing the doors won't do anything. She does not decay on her own, even if the Office is cooled down to 60 degrees; both doors must be closed to reverse her progress.
 
-Nightmare Mangle
+Nightmare Mangle - Nightmare Mangle is identical to every single plush animatronic. He shows up at either 1 Am, 3 Am, or 5 AM on CAM 02. When he appears, the player needs to purchase the plushie on CAM07 within 20 seconds to prevent him from attacking. He can be cam-stalled on CAM 02, negating him as a threat so long as the camera remains there. However, this will force the player into cam-stalling him for the entire night as if you change the camera he attacks. If a new plush animatronic spawns they will cancel him and his attack will be stopped.
 
-Nightmarionne
+Nightmarionne - Has six locations that he can be in the Office, four are in the middle, two are in the upper-left corner. The locations are random. and changes if fully invisible. Has a invisiblity value. This value decreases when you hover the cursor over him. The value decreases faster with the levle. At level 20 you have about 0.85 seconds to take the cursor off.
 
-Nightmare Balloon Boy
+Nightmare Balloon Boy - Sits in the office the entire time. He's located in the right side. Every time the camera is flipped there is a chance that he becomes active. On level 20 it's 50%. When he is standing you must shine the flashlight on him to make him sit down again, otherwise he will attack the next time the Montior is activated. Also, shining him when he is sitting will force him to attack the player.
 
-Old Man Consequences
+Old Man Consequences - Every 5 seconds that his game is not active and the Monitor is not locked by him the game has a 66% chance to activate it in level 20. The player has about 3 seconds to catch the fish by pressing C when the fish in the center corss, or he will lock the Monitor for about 8-10 seconds.
 
-Circus Baby
+Circus Baby - Circus Baby is identical to every single plush animatronic. She shows up at either 1 Am, 3 Am, or 5 AM on CAM 02. When she appears, the player needs to purchase the plushie on CAM07 within 20 seconds to prevent her from attacking. She can be cam-stalled on CAM 02, negating her as a threat so long as the camera remains there. However, this will force the player into cam-stalling her for the entire night as if you change the camera she attacks. If a new plush animatronic spawns they will cancel her and her attack will be stopped.
 
 Ballora
 
