@@ -114,7 +114,7 @@ Nightmare Freddy - Every second you turn the camera there is a 66% a Freddle wil
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare_Bonnie
 Nightmare Bonnie - Nightmare bonnie is identical to every single plush animatronic. He shows up at either 1 Am, 3 Am, or 5 AM on CAM 02. When he appears, the player needs to purchase the plushie on CAM07 within 20 seconds to prevent him from attacking. He can be cam-stalled on CAM 02, negating him as a threat so long as the camera remains there. However, this will force the player into cam-stalling him for the entire night as if you change the camera he attacks. If a new plush animatronic spawns they will cancel him and his attack will be stopped.
 
-![[Pasted image 20251215164831.png|75]]
+![[NightmareBonnie.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare_Fredbear
 Nightmare Fredbear - Identical to Nightmare. Every 5 seconds the the Monitor is raised. There is a 50% chance for him to laugh and appear outside the left doorway, with him staring into the Office, he's invisible on cameras. The player has 3.33 seconds to close the door or he will attack when the Monitor is raised.
 
