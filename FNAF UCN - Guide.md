@@ -104,7 +104,7 @@ Phantom Freddy - In the office he fades in. The higher the heat the more he will
 
 ![[PhantomFreddy.png|100]]
 
-Phantom BB
+Phantom BB - Every time you raise the monitor there is a chance that he spawns. With level 1 the chance is 1 in 50 while on level 20 the chance is 2 in 5. He can be despawned by switching to the vent or duct system, reselecting your camera, selecting a new camera or turning the monitor down. If he's stared for longer than a second he will turn the monitor off and jumpscare you. When you are blacked out it blocks out visibility within the Office temporarily which is lethal with Golden Freddy,
 
 Nightmare Freddy
 
