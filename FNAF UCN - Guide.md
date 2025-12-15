@@ -132,21 +132,23 @@ Nightmare Mangle - Nightmare Mangle is identical to every single plush animatron
 
 ![[Pasted image 20251215165111.png|150]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmarionne
-Nightmarionne - Has six locations that he can be in the Office, four are in the middle, two are in the upper-left corner. The locations are random. and changes if fully invisible. Has a invisiblity value. This value decreases when you hover the cursor over him. The value decreases faster with the levle. At level 20 you have about 0.85 seconds to take the cursor off.
+Nightmarionne - Has six locations that he can be in the Office, four are in the middle, two are in the upper-left corner. The locations are random. and changes if fully invisible. Has a invisibility value. This value decreases when you hover the cursor over him. The value decreases faster with the level. At level 20 you have about 0.85 seconds to take the cursor off.
 
-![[Pasted image 20251215165154.png]]
-
+![[Pasted image 20251215165154.png|100]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare_Balloon_Boy
 Nightmare Balloon Boy - Sits in the office the entire time. He's located in the right side. Every time the camera is flipped there is a chance that he becomes active. On level 20 it's 50%. When he is standing you must shine the flashlight on him to make him sit down again, otherwise he will attack the next time the Monitor is activated. Also, shining him when he is sitting will force him to attack the player.
 
-Old Man Consequences - Every 5 seconds that his game is not active and the Monitor is not locked by him the game has a 66% chance to activate it in level 20. The player has about 3 seconds to catch the fish by pressing C when the fish in the center corss, or he will lock the Monitor for about 8-10 seconds.
+![[Pasted image 20251215165226.png|150]]
+
+Old Man Consequences - Every 5 seconds that his game is not active and the Monitor is not locked by him the game has a 66% chance to activate it in level 20. The player has about 3 seconds to catch the fish by pressing C when the fish in the center cross, or he will lock the Monitor for about 8-10 seconds.
 
 Circus Baby - Circus Baby is identical to every single plush animatronic. She shows up at either 1 Am, 3 Am, or 5 AM on CAM 02. When she appears, the player needs to purchase the plushie on CAM07 within 20 seconds to prevent her from attacking. She can be cam-stalled on CAM 02, negating her as a threat so long as the camera remains there. However, this will force the player into cam-stalling her for the entire night as if you change the camera she attacks. If a new plush animatronic spawns they will cancel her and her attack will be stopped.
 
-Ballora - Every 14 seconds on level 20 there is a 50% chance that she will start her attack. She will approach from either the right or left hall, playing her music associated with the side. During her attack, all cameras will be diabled. After 1.67 seconds into her attack, the lights will being to flicker. You have about 2 seconds to close the door that she is approaching from to defend against her.
+Ballora - Every 14 seconds on level 20 there is a 50% chance that she will start her attack. She will approach from either the right or left hall, playing her music associated with the side. During her attack, all cameras will be disabled. After 1.67 seconds into her attack, the lights will being to flicker. You have about 2 seconds to close the door that she is approaching from to defend against her.
 
-Funtime Foxy - Funtime foxy is  at CAM 06 in Funtime Cove, looking from the curtain. His first showtime is from 1AM to 3AM. If the player is not on CAM 06 at the exact time he will immmediately attack. If he is observed a new time will be selected anywhere from 1 to 3 hours later. He is no0t effected by the difficulty level. He can kill at 4:30 if not observed at 6AM. Every hour is 45 seconds.
+Funtime Foxy - Funtime foxy is  at CAM 06 in Funtime Cove, looking from the curtain. His first showtime is from 1AM to 3AM. If the player is not on CAM 06 at the exact time he will immediately attack. If he is observed a new time will be selected anywhere from 1 to 3 hours later. He is no0t effected by the difficulty level. He can kill at 4:30 if not observed at 6AM. Every hour is 45 seconds.
 
-Ennard - Ennard is not like most animatronics. His  starting speed is 1 but every time he turns a corner the speed is set to 5. He's difficult to see on the vent monitor. He will always take the middle path and cannot be stpoped by the vent snare. When he reaches the opening he makes a squeaking noise. He will wait for about 3.3 seconds before attacking after the Monitor is raiced. If you block him, he will be sent back to the start of the vent system.
+Ennard - Ennard is not like most animatronics. His  starting speed is 1 but every time he turns a corner the speed is set to 5. He's difficult to see on the vent monitor. He will always take the middle path and cannot be stopped by the vent snare. When he reaches the opening he makes a squeaking noise. He will wait for about 3.3 seconds before attacking after the Monitor is raised. If you block him, he will be sent back to the start of the vent system.
 
 Trash and the Gang - Mr. Can-Do randomly appears  on a camera whenever the Monitor is flipped down, blocking the majority of the screen. Every time the Monitor is raised, there is a chance that No. 1 Crate will appear in the Office. She will whisper the first time she shows up, then again after every 7 seconds. After 3 seconds of being in the Office, she has a 50% chance of jumpscaring you, which will a sound and get into your face. It lasts for 0.83 seconds. It does not force down the Monitor, and will appear on top of it instead. It doesn't add any noise though.
 
