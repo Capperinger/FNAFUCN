@@ -106,11 +106,11 @@ Phantom Freddy - In the office he fades in. The higher the heat the more he will
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Phantom_BB
 Phantom Balloon Boy - Every time you raise the monitor there is a chance that he spawns. With level 1 the chance is 1 in 50 while on level 20 the chance is 2 in 5. He can be despawned by switching to the vent or duct system, reselecting your camera, selecting a new camera or turning the monitor down. If he's stared for longer than a second he will turn the monitor off and jumpscare you. When you are blacked out it blocks out visibility within the Office temporarily which is lethal with Golden Freddy,
 
-![[Pasted image 20251215164709.png|100]]
+![[PhantomBB.png|100]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare_Freddy
 Nightmare Freddy - Every second you turn the camera there is a 66% a Freddle will appear in the Office. Shining the flashlight on them will make them despawn. With 1 or 2 Freddles, there will be a 5% chance to disappear every frame and with more than 3 a 10%. Up to 5 show but the actual limit is 7 for him to spawn. Once the number is reached, having the monitor up will cause him to attack. If needed to use the monitor for a long time you can use the flashlight while using the monitor to send the Freddles away. But they will start coming back when you stop.
 
-![[Pasted image 20251215164749.png|75]]
+![[NightmareFreddy.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare_Bonnie
 Nightmare Bonnie - Nightmare bonnie is identical to every single plush animatronic. He shows up at either 1 Am, 3 Am, or 5 AM on CAM 02. When he appears, the player needs to purchase the plushie on CAM07 within 20 seconds to prevent him from attacking. He can be cam-stalled on CAM 02, negating him as a threat so long as the camera remains there. However, this will force the player into cam-stalling him for the entire night as if you change the camera he attacks. If a new plush animatronic spawns they will cancel him and his attack will be stopped.
 
@@ -118,51 +118,51 @@ Nightmare Bonnie - Nightmare bonnie is identical to every single plush animatron
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare_Fredbear
 Nightmare Fredbear - Identical to Nightmare. Every 5 seconds the the Monitor is raised. There is a 50% chance for him to laugh and appear outside the left doorway, with him staring into the Office, he's invisible on cameras. The player has 3.33 seconds to close the door or he will attack when the Monitor is raised.
 
-![[Pasted image 20251215164907.png|75]]
+![[NightmareFredbear.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare
 Nightmare - Identical to Nightmare Fredbear. Every 5 seconds the the Monitor is raised. There is a 50% chance for him to laugh and appear outside the left doorway, with him staring into the Office, he's invisible on cameras. The player has 3.33 seconds to close the door or he will attack when the Monitor is raised.
 
-![[Pasted image 20251215164929.png|75]]
+![[Nightmare.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Jack-O-Chica
 Jack-O-Chica - When the heat is at 90 degrees, she materializes in both halls at the same time. After 4 minutes on level 1 or 12.5 seconds on level 20 she will fully materialize and attack. If the Office is below 100 degrees and both doors are closed her value decrease by 10 every frame, down to a minimum of -50. If the office is about 100 degrees, closing the doors won't do anything. She does not decay on her own, even if the Office is cooled down to 60 degrees; both doors must be closed to reverse her progress.
 
-![[Pasted image 20251215165053.png|75]]
+![[Jack-O-Chica.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare_Mangle
 Nightmare Mangle - Nightmare Mangle is identical to every single plush animatronic. He shows up at either 1 Am, 3 Am, or 5 AM on CAM 02. When he appears, the player needs to purchase the plushie on CAM07 within 20 seconds to prevent him from attacking. He can be cam-stalled on CAM 02, negating him as a threat so long as the camera remains there. However, this will force the player into cam-stalling him for the entire night as if you change the camera he attacks. If a new plush animatronic spawns they will cancel him and his attack will be stopped.
 
-![[Pasted image 20251215165111.png|150]]
+![[NightmareMangle.png|150]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmarionne
 Nightmarionne - Has six locations that he can be in the Office, four are in the middle, two are in the upper-left corner. The locations are random. and changes if fully invisible. Has a invisibility value. This value decreases when you hover the cursor over him. The value decreases faster with the level. At level 20 you have about 0.85 seconds to take the cursor off.
 
-![[Pasted image 20251215165154.png|100]]
+![[Nightmarionne.png|100]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Nightmare_Balloon_Boy
 Nightmare Balloon Boy - Sits in the office the entire time. He's located in the right side. Every time the camera is flipped there is a chance that he becomes active. On level 20 it's 50%. When he is standing you must shine the flashlight on him to make him sit down again, otherwise he will attack the next time the Monitor is activated. Also, shining him when he is sitting will force him to attack the player.
 
-![[Pasted image 20251215165226.png|150]]
+![[NightmareBB.png|150]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Old_Man_Consequences
 Old Man Consequences - Every 5 seconds that his game is not active and the Monitor is not locked by him the game has a 66% chance to activate it in level 20. The player has about 3 seconds to catch the fish by pressing C when the fish in the center cross, or he will lock the Monitor for about 8-10 seconds.
 
-![[Pasted image 20251215165352.png|100]]
+![[OMC.png|100]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Circus_Baby
 Circus Baby - Circus Baby is identical to every single plush animatronic. She shows up at either 1 Am, 3 Am, or 5 AM on CAM 02. When she appears, the player needs to purchase the plushie on CAM07 within 20 seconds to prevent her from attacking. She can be cam-stalled on CAM 02, negating her as a threat so long as the camera remains there. However, this will force the player into cam-stalling her for the entire night as if you change the camera she attacks. If a new plush animatronic spawns they will cancel her and her attack will be stopped.
 
-![[Pasted image 20251215165419.png|150]]
+![[CircusBaby.png|150]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Ballora
 Ballora - Every 14 seconds on level 20 there is a 50% chance that she will start her attack. She will approach from either the right or left hall, playing her music associated with the side. During her attack, all cameras will be disabled. After 1.67 seconds into her attack, the lights will being to flicker. You have about 2 seconds to close the door that she is approaching from to defend against her.
 
-![[Pasted image 20251215165446.png|100]]
+![[Ballora.png|100]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Funtime_Foxy
 Funtime Foxy - Funtime foxy is  at CAM 06 in Funtime Cove, looking from the curtain. His first showtime is from 1AM to 3AM. If the player is not on CAM 06 at the exact time he will immediately attack. If he is observed a new time will be selected anywhere from 1 to 3 hours later. He is not effected by the difficulty level. He can kill at 4:30 if not observed at 6AM. Every hour is 45 seconds.
 
-![[Pasted image 20251215165526.png|150]]
+![[FuntimeFoxy.png|150]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Ennard
 Ennard - Ennard is not like most animatronics. His  starting speed is 1 but every time he turns a corner the speed is set to 5. He's difficult to see on the vent monitor. He will always take the middle path and cannot be stopped by the vent snare. When he reaches the opening he makes a squeaking noise. He will wait for about 3.3 seconds before attacking after the Monitor is raised. If you block him, he will be sent back to the start of the vent system.
 
-![[Pasted image 20251215165655.png|75]]
+![[ennard.png|75]]
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Trash_and_the_Gang
 Trash and the Gang - Mr. Can-Do randomly appears  on a camera whenever the Monitor is flipped down, blocking the majority of the screen. Every time the Monitor is raised, there is a chance that No. 1 Crate will appear in the Office. She will whisper the first time she shows up, then again after every 7 seconds. After 3 seconds of being in the Office, she has a 50% chance of jumpscaring you, which will a sound and get into your face. It lasts for 0.83 seconds. It does not force down the Monitor, and will appear on top of it instead. It doesn't add any noise though.
 
-![[Pasted image 20251215165737.png|100]]
+![[TrashAndTheGang.png|100]]
 Helpy
 
 Happy Frog
