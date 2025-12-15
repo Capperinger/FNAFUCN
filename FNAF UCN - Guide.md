@@ -163,11 +163,16 @@ https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Trash_and_the_Gang
 Trash and the Gang - Mr. Can-Do randomly appears  on a camera whenever the Monitor is flipped down, blocking the majority of the screen. Every time the Monitor is raised, there is a chance that No. 1 Crate will appear in the Office. She will whisper the first time she shows up, then again after every 7 seconds. After 3 seconds of being in the Office, she has a 50% chance of jumpscaring you, which will a sound and get into your face. It lasts for 0.83 seconds. It does not force down the Monitor, and will appear on top of it instead. It doesn't add any noise though.
 
 ![[TrashAndTheGang.png|100]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Helpy
 Helpy
-
+![[Pasted image 20251215170006.png|75]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Happy_Frog
 Happy Frog
-
+![[Pasted image 20251215170028.png|75]]
+https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Mr._Hippo
 Mr. Hippo
+
+![[Pasted image 20251215170052.png|100]]
 
 https://the-fnaf-ultimate-custom-night.fandom.com/wiki/Pigpatch
 Pigpatch
