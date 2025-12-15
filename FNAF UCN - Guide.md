@@ -132,7 +132,7 @@ Funtime Foxy - Funtime foxy is  at CAM 06 in Funtime Cove, looking from the curt
 
 Ennard - Ennard is not like most animatronics. His  starting speed is 1 but every time he turns a corner the speed is set to 5. He's difficult to see on the vent monitor. He will always take the middle path and cannot be stpoped by the vent snare. When he reaches the opening he makes a squeaking noise. He will wait for about 3.3 seconds before attacking after the Monitor is raiced. If you block him, he will be sent back to the start of the vent system.
 
-Trash Gang
+Trash and the Gang - Mr. Can-Do randomly appears  on a camera whenever the Monitor is flipped down, blocking the majority of the screen. Every time the Monitor is raised, there is a chance that No. 1 Crate will appear in the Office. She will whisper the first time she shows up, then again after every 7 seconds. After 3 seconds of being in the Office, she has a 50% chance of jumpscaring you, which will a sound and get into your face. It lasts for 0.83 seconds. It does not force down the Monitor, and will appear on top of it instead. It doesn't add any noise though.
 
 Helpy
 
