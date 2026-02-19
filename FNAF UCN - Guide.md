@@ -269,3 +269,4 @@ Any of these animatronics can appear from Dee-Dee: Freddy ,Foxy ,Toy Freddy ,Toy
 ### Tips
 
 Never keep camera on Pirate's cove because if Bonnie is there you won't be able to turn the camera on.
+Cam stall Foxy by keeping Bonnie on CAM 03.
